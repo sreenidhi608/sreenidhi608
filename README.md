@@ -1,4 +1,4 @@
-# Hi there, I'm Sreenidhi 👋
+# Hi there, I'm Sreenidhi! 👋
 
 Welcome to my GitHub!  
 I'm a student at **UC Irvine (UCI)** and currently an **AI/ML Fellow at BTT Cornell Tech**. My passion lies at the intersection of data, machine learning, and creative tech solutions — with a curiosity to learn and build projects that create real impact.
