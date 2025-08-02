@@ -15,7 +15,7 @@ I'm a student at **UC Irvine (UCI)** and currently an **AI/ML Fellow at BTT Corn
 
 ## 🏆 Projects
 
-### [lookBook](https://github.com/rachaelvle)
+### [lookBook](https://github.com/rachaelvle/makeup-website)
 A social media-style makeup inspiration website built for a hackathon.  
 Find creative looks, share ideas, and get inspired!
 
