@@ -19,7 +19,7 @@ I'm a student at **UC Irvine (UCI)** and currently an **AI/ML Fellow at BTT Corn
 A social media-style makeup inspiration website built for a hackathon.  
 Find creative looks, share ideas, and get inspired!
 
-### [BTT ML Foundations Final Project](https://github.com/sreenidhi608/My-BTT-Portfolio/tree/final-project)
+### [BTT ML Foundations Final Project](https://github.com/sreenidhi608/log-reg-life-ladder-country-prediction)
 Uses logistic regression models to predict **Life Ladder** — a measure of happiness across countries.  
 Harnesses data science to offer insights into global well-being.
 
