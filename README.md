@@ -24,7 +24,8 @@ Uses logistic regression models to predict **Life Ladder** — a measure of happ
 Harnesses data science to offer insights into global well-being.
 
 ### [Arity Turn-Classification AI Studio Project](https://github.com/anvitha-sm/turns-classification-arity)
-An unsupervised machine learning project that clusters and classifies driving maneuvers from vehicle telematics data to surface actionable safety and risk insights.
+An unsupervised machine learning project that clusters and classifies driving maneuvers from vehicle telematics data 
+to surface actionable safety and risk insights.
 
 ---
 
