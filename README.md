@@ -23,11 +23,14 @@ Find creative looks, share ideas, and get inspired!
 Uses logistic regression models to predict **Life Ladder** — a measure of happiness across countries.  
 Harnesses data science to offer insights into global well-being.
 
+### [Arity Turn-Classification AI Studio Project](https://github.com/anvitha-sm/turns-classification-arity)
+An unsupervised machine learning project that clusters and classifies driving maneuvers from vehicle telematics data to surface actionable safety and risk insights.
+
 ---
 
 ## 📫 Connect With Me!
 
-- [LinkedIn](https://www.linkedin.com/in/sreenidhi-challagundla-3b9205187/)
+- [LinkedIn](https://www.linkedin.com/in/sreenidhi-c/)
 - [Email](challagundla.nidhi@gmail.com)
 
 ---
